@@ -40,6 +40,8 @@ endif::[]
 :insights-advisor-url: link:https://console.redhat.com/openshift/insights/advisor/[Advisor]
 :insights-operator: Insights Operator
 :red-hat-lightspeed: Red{nbsp}Hat Lightspeed
+:rhl-advisor: Red{nbsp}Hat Lightspeed Advisor
+:rhl-advisor-service: Red{nbsp}Hat Lightspeed advisor service
 :hybrid-console: Red{nbsp}Hat Hybrid Cloud Console
 :hybrid-console-second: Hybrid Cloud Console
 :hybrid-console-url: link:https://console.redhat.com[Red Hat Hybrid Cloud Console]

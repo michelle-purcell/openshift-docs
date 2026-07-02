@@ -7,7 +7,7 @@
 = Displaying potential issues with your cluster
 
 [role="_abstract"]
-This section describes how to display the {red-hat-lightspeed} report in *{red-hat-lightspeed} Advisor* on {cluster-manager-url}.
+This section describes how to display the {red-hat-lightspeed} report in *{rhl-advisor}* on {cluster-manager-url}.
 
 Note that {red-hat-lightspeed} repeatedly analyzes your cluster and shows the latest results. These results can change, for example, if you fix an issue or a new issue has been detected.
 
@@ -21,7 +21,7 @@ Note that {red-hat-lightspeed} repeatedly analyzes your cluster and shows the la
 
 . Navigate to *Advisor* -> *Recommendations* on {cluster-manager-url}.
 +
-Depending on the result, the {red-hat-lightspeed} advisor service displays one of the following:
+Depending on the result, the {rhl-advisor-service} displays one of the following:
 +
 * *No matching recommendations found*, if {red-hat-lightspeed} did not identify any issues.
 +

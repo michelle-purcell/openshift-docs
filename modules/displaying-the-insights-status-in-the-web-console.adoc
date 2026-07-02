@@ -22,4 +22,4 @@
 
 . Click *{red-hat-lightspeed}* on the *Status* card.
 +
-The pop-up window lists potential issues grouped by risk. Click the individual categories or *View all recommendations in {red-hat-lightspeed} Advisor* to display more details.
+The pop-up window lists potential issues grouped by risk. Click the individual categories or *View all recommendations in {rhl-advisor}* to display more details.

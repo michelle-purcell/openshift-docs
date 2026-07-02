@@ -74,5 +74,5 @@ After you save the changes, the {insights-operator} gather configurations are up
 +
 [NOTE]
 ====
-Disabling gather operations restricts the ability of the {red-hat-lightspeed} advisor service to offer effective recommendations for your cluster.
+Disabling gather operations restricts the ability of the {rhl-advisor-service} to offer effective recommendations for your cluster.
 ====

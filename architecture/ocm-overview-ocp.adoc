@@ -39,7 +39,7 @@ Selecting an active, installed cluster shows tabs associated with that cluster. 
 * Add-ons
 * Networking
 * Machine pools
-* {red-hat-lightspeed} Advisor
+* {rhl-advisor}
 * Support
 * Settings
 

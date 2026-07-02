@@ -35,6 +35,8 @@
 :sts-short: STS
 :insights-operator: Insights Operator
 :red-hat-lightspeed: Red{nbsp}Hat Lightspeed
+:rhl-advisor: Red{nbsp}Hat Lightspeed Advisor
+:rhl-advisor-service: Red{nbsp}Hat Lightspeed advisor service
 :autonode: Red{nbsp}Hat build of Karpenter
 //logging
 :logging-title: logging for Red Hat OpenShift

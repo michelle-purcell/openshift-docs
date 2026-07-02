@@ -60,10 +60,10 @@ If the operation is successful, the command returns a `"request_id"` and `"accou
 
 . To display the details of the cluster, click the cluster name.
 
-. Open the *{red-hat-lightspeed} Advisor* tab of the cluster.
+. Open the *{rhl-advisor}* tab of the cluster.
 +
 If the upload was successful, the tab displays one of the following:
 +
-* *Your cluster passed all recommendations*, if the {red-hat-lightspeed} advisor service did not identify any issues.
+* *Your cluster passed all recommendations*, if the {rhl-advisor-service} did not identify any issues.
 
-* A list of issues that the {red-hat-lightspeed} advisor service has detected, prioritized by risk (low, moderate, important, and critical).
+* A list of issues that the {rhl-advisor-service} has detected, prioritized by risk (low, moderate, important, and critical).

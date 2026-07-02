@@ -71,7 +71,7 @@ You can optionally customize the following items for the on-demand data gather o
 
 [IMPORTANT]
 ====
-Excluding gather operations from the default list might reduce or limit the  recommendations offered by the {red-hat-lightspeed} advisor service for your cluster.
+Excluding gather operations from the default list might reduce or limit the  recommendations offered by the {rhl-advisor-service} for your cluster.
 ====
 
 

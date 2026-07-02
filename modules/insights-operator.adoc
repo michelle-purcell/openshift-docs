@@ -25,7 +25,7 @@ ifdef::cluster-caps[]
 The {insights-operator} provides the features for the `Insights` capability.
 endif::cluster-caps[]
 
-The {insights-operator} gathers {product-title} configuration data and sends it to Red{nbsp}Hat. The data is used to produce proactive insights recommendations about potential issues that a cluster might be exposed to. These insights are communicated to cluster administrators through the {red-hat-lightspeed} advisor service on link:https://console.redhat.com/[console.redhat.com].
+The {insights-operator} gathers {product-title} configuration data and sends it to Red{nbsp}Hat. The data is used to produce proactive insights recommendations about potential issues that a cluster might be exposed to. These insights are communicated to cluster administrators through the {rhl-advisor-service} on link:https://console.redhat.com/[console.redhat.com].
 
 ifdef::operator-ref[]
 Project::
